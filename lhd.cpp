@@ -6,7 +6,7 @@ using namespace std;
 
 void my_func(int N)
 {
-	double pi = 2 * acos(0.0);
+	double pi = 2 * acos(0.0); //value
 	printf("%.*lf\n", N, pi);
 }
 
